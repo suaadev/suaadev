@@ -36,12 +36,6 @@
 
 <br><br>
 
-**Engineering & Architecture**
-<br>
-<img src="https://img.icons8.com/color/40/000000/micro-programming.png" alt="DDD" width="40" height="40" style="margin: 10px;">
-<img src="https://img.icons8.com/color/40/000000/blueprint.png" alt="Architecture" width="40" height="40" style="margin: 10px;">
-<img src="https://img.icons8.com/color/40/000000/brain.png" alt="AI" width="40" height="40" style="margin: 10px;">
-
 </div>
 
 ---
