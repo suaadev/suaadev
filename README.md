@@ -1,8 +1,8 @@
 <h1 align="center">David Suarez</h1>
-<h4 align="center">Backend Software Engineer | Domain-Driven Design | Clean Architecture | AI integration</h4>
+<h4 align="center">Software Engineer | Backend Infrastructure | AI-Assisted Development</h4>
 
 <p align="center">
-  <i>I design and build backend systems that solve complex business problems, focusing on clarity, testability, and scale.</i>
+  <i>Systems Engineering @ Universidad del Valle | Building scalable, resilient, and clear backend systems.</i>
 </p>
 
 <br>
@@ -31,14 +31,10 @@
 
 ---
 
-### What I Do & Why It Matters
+### Engineering Focus
 
-I specialize in managing software complexity in large-scale domains. Here is how I approach engineering:
-
-*   **Complex Domains with DDD:** My default approach for high-stakes domains (like a **Medical ERP** I recently worked on) is **Domain-Driven Design**. I use it along with **Hexagonal Architecture** to isolate business logic, making the system easy to test and maintain.
-*   **Mission-Critical Integrations:** I have experience building secure, fault-tolerant integrations for highly regulated environments, including **Electronic Billing Systems** (connecting with entities like DIAN, FEVRIPS, and RDA).
-*   **Event-Driven Systems:** I design distributed architectures that handle high traffic. A recent project involved building a real-time inbox messaging system using **Redis** and an **Event-Driven** approach for fast, decoupled communication.
-*   **AI-Assisted Workflow:** I leverage advanced tooling like Claude, Codex, and Gemini CLI as daily pair-programming assistants. This allows me to automate boilerplate, generate tests, and accelerate development while maintaining top-tier code quality.
-*   **Problem Solver at Heart:** I genuinely enjoy algorithmic challenges. Solving puzzles isn't just a hobby; it's how I keep my analytical skills sharp to write optimized, high-performance code.
+*   **Scalable Architecture:** Designing decoupled, event-driven systems to isolate business logic and handle high-traffic environments effectively.
+*   **Mission-Critical Domains:** Building fault-tolerant integrations for highly regulated sectors, including Medical ERPs and Electronic Billing platforms.
+*   **AI-Driven Efficiency:** Leveraging AI pair-programming to automate boilerplate, focusing my analytical effort on complex algorithmic challenges and system design.
 
 ---
