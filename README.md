@@ -1,8 +1,8 @@
 <h1 align="center">David Suarez</h1>
-<h4 align="center">Software Engineer | Backend Infrastructure | AI-Assisted Development</h4>
+<h4 align="center">Software Engineer | Backend Infrastructure | Systems Automation</h4>
 
 <p align="center">
-  <i>Systems Engineering | Universidad del Valle | Building scalable, resilient, and clear backend systems.</i>
+  <i>Systems Engineering @ Universidad del Valle | Building scalable, resilient, and clear backend systems.</i>
 </p>
 
 <br>
@@ -33,8 +33,9 @@
 
 ### Engineering Focus
 
-*   **Scalable Architecture:** Designing decoupled, event-driven systems to isolate business logic and handle high-traffic environments effectively.
-*   **Mission-Critical Domains:** Building fault-tolerant integrations for highly regulated sectors, including Medical ERPs and Electronic Billing platforms.
-*   **AI-Driven Efficiency:** Leveraging AI pair-programming to automate boilerplate, focusing my analytical effort on complex algorithmic challenges and system design.
+*   **Backend Architecture:** Designing scalable, event-driven APIs and modular systems that translate complex business rules into maintainable code.
+*   **Critical Integrations:** Building secure, fault-tolerant data flows for highly regulated environments, including Medical ERPs and Electronic Billing platforms.
+*   **Workflow Automation:** Leveraging advanced tooling and scripting to automate repetitive tasks, streamline development cycles, and boost overall productivity.
+*   **Performance & Optimization:** Applying strong algorithmic foundations to identify bottlenecks, optimize databases, and ensure efficient execution under high load.
 
 ---
