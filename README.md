@@ -25,6 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 6px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40" style="margin: 6px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40" style="margin: 6px;">
+  <img src="https://cdn.simpleicons.org/graphql/E10098" alt="Swagger" width="40" height="40" style="margin: 6px;">
 </div>
 
 <br>
