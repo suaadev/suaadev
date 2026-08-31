@@ -1,5 +1,5 @@
 <h1 align="center">David Suarez</h1>
-<h4 align="center">Software Engineer | Backend Infrastructure | Systems Automation</h4>
+<h4 align="center">Software Engineer | Backend developer | Systems Automation</h4>
 
 <p align="center">
   <i>Building scalable, resilient, and clear backend systems.</i>
