@@ -2,7 +2,7 @@
 <h4 align="center">Software Engineer | Backend Infrastructure | Systems Automation</h4>
 
 <p align="center">
-  <i>Systems Engineering @ Universidad del Valle | Building scalable, resilient, and clear backend systems.</i>
+  <i>Systems Engineering | Universidad del Valle | Building scalable, resilient, and clear backend systems.</i>
 </p>
 
 <br>
